@@ -73,5 +73,5 @@ This repo will be updated regularly as the GSoC project progresses.
 🧵 Devlog and progress: Coming soon...
 
 📡 Connect
-GitHub: mrvenom17
+GitHub: [mrvenom17](https://github.com/mrvenom17)
 LinkedIn: [Alay Sharma](https://www.linkedin.com/in/alay-sh/)
